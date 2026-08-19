@@ -1,0 +1,5 @@
+outs:
+- md5: f60bdb7a3380e62714b5f5eb7c28efe1
+  size: 51949
+  hash: md5
+  path: cleaned_kidney_disease.csv
